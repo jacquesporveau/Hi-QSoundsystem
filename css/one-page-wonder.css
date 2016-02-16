@@ -4,6 +4,15 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+#main-title {
+    font-family: 'Permanent Marker', cursive;
+}
+
+#soundcloud {
+    height: 500px;
+    width: 500px;
+}
+
 .arrow {
   width: 100px;
     margin-top: 50px;
