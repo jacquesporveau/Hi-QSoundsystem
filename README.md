@@ -1,2 +1,2 @@
 # Hi-QSoundsystem
-This is a static website viewable at www.hiqsoundsystem.com
+I ended up taking down this site a while ago. Going to leave the github repo so I can lol at my first website.
